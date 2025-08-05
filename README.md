@@ -1,10 +1,9 @@
-# schema-vecka-33
-Övergripande upplägg över vecka 33
+# Schema v33
+Övergripande planering för veckan
 
 ##### TypeScript, vecka 1 av 5 (Next.js/React)
 
 ## 🎯 Mål för veckan
-
 Efter denna vecka ska du:
 1.  Kunna installera och köra igång ett projekt med Next.js
 2.  Förstå grunderna i Next.js/React
