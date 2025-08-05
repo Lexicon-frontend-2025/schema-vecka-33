@@ -29,8 +29,8 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 * Frivilligt - [Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
 
 ## 📑 Lektionsrepon
-* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout, Komponenter, inbyggda(Metadata, Image, Link), Basic Routing (m page + route), CSS modules, google fonts - grund/översikt
-* **[Tisdag]()** (Robert) - **mer components (mapp för components), skillnaden på funktioner och komponenter, children, props/params (+destructuring), namnkonventioner, externa bilder**
-* **[Onsdag]** (Robert) - **forts... + mer om css modules** 
-* **[Torsdag]** (Robert) - **Handledning** 
-* **[Fredag]** (Robert) - **Code Review:** Code review i slumpade grupper.
+* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout, inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
+* **[Tisdag]()** (Robert) - **Komponenter mm:** skillnaden på funktioner och komponenter, children, props/params (destructuring), externa bilder
+* **[Onsdag]** (Robert) - **Styling** + mer om css modules, google fonts - grund/översikt
+* **[Torsdag]** (Robert) - **forts**
+* **[Fredag]** (Robert) - **ev frivilligt tailwind+shadcn** 
