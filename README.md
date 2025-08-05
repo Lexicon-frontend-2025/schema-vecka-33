@@ -21,16 +21,16 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 
 ### Läsning
 * [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor
-* Frivilligt [Bakgrunden till Next.js och React](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
-
+* Frivilligt [Om React](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
 
 ## 🛠️ Övningar
 * [CODE LAB Guided: Foundations of Next.js 14](https://app.pluralsight.com/paths/skill/nextjs)
+* [CODE LAB Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application](https://app.pluralsight.com/paths/skill/nextjs)
 * Frivilligt [Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
 
 ## 📑 Lektionsrepon
-* **Måndag** (Robert) - **Redovisning av gruppövningen & repetition:** Grupperna presenterar processen och studentkatalogen. Sammanfattning av veckans koncept och frågestund.
-* **[Tisdag]()** (Robert) - **Repetition och LS**
-* **[Onsdag]** (Robert) - **Handledning** 
+* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout, Komponenter, inbyggda(Metadata, Image, Link), Basic Routing (m page + route), CSS modules, google fonts - grund/översikt
+* **[Tisdag]()** (Robert) - **mer components (mapp för components), skillnaden på funktioner och komponenter, children, props/params (+destructuring), namnkonventioner, externa bilder**
+* **[Onsdag]** (Robert) - **forts... + mer om css modules** 
 * **[Torsdag]** (Robert) - **Handledning** 
 * **[Fredag]** (Robert) - **Code Review:** Code review i slumpade grupper.
