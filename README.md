@@ -1,7 +1,7 @@
 # schema-vecka-33
 Övergripande upplägg över vecka 33
 
-##### TypeScript, vecka 4 av 4 (Projekt)
+##### TypeScript, vecka 1 av 5 (Next.js/React)
 
 ## 🎯 Mål för veckan
 
