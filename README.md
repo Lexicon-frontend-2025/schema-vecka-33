@@ -30,7 +30,7 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 
 ## 📑 Lektionsrepon
 * **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout (som komponent/children), inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
-* **[Tisdag]()** (Robert) - **Mer om komponenter:** skillnaden på funktioner och komponenter, children, props/params (destructuring), externa bilder
+* **[Tisdag]()** (Robert) - **Mer om komponenter:** skillnaden på funktioner och komponenter, children, props/params (destructuring), externa bilder, (ev notFound)
 * **[Onsdag]()** (Robert) - **Styling:** mer om css modules, google fonts - grund/översikt
 * **[Torsdag]()** (Robert) - **forts...**
 * **[Fredag]()** (Robert) - **ev frivilligt tailwind+shadcn** 
