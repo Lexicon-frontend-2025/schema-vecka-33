@@ -21,7 +21,7 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 * [NextJS 15 Full Course 2025 | Become a NextJS Pro in 1.5 Hours (PedroTech)](https://www.youtube.com/watch?v=6jQdZcYY8OY)
 
 ### Läsning
-* [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor
+* [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor (RTFM)
 * Frivilligt - [Om React](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
 
 ## 🛠️ Övningar
@@ -30,8 +30,8 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 * Frivilligt - [Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
 
 ## 📑 Lektionsrepon
-* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout (, inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
-* **[Tisdag]()** (Robert) - **Komponenter mm:** skillnaden på funktioner och komponenter, children, props/params (destructuring), externa bilder
-* **[Onsdag]()** (Robert) - **Styling:** + mer om css modules, google fonts - grund/översikt
+* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout (som komponent/children), inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
+* **[Tisdag]()** (Robert) - **Mer om komponenter:** skillnaden på funktioner och komponenter, children, props/params (destructuring), externa bilder
+* **[Onsdag]()** (Robert) - **Styling:** mer om css modules, google fonts - grund/översikt
 * **[Torsdag]()** (Robert) - **forts...**
 * **[Fredag]()** (Robert) - **ev frivilligt tailwind+shadcn** 
