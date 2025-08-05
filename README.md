@@ -1,4 +1,4 @@
-# Schema v33
+# Schema v.33
 Övergripande planering för veckan
 
 ##### TypeScript, vecka 1 av 5 (Next.js/React)
