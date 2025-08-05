@@ -6,7 +6,8 @@
 ## 🎯 Mål för veckan
 
 Efter denna vecka ska du:
-1.  Ha grundläggande förståelse för **Local Storage**.
+1.  Kunna installera och köra igång ett projekt med Next.js
+2.  Förstå grunderna i Next.js/React
 
 ## 📚 Material
 
@@ -29,8 +30,8 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 * Frivilligt - [Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
 
 ## 📑 Lektionsrepon
-* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout, inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
+* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alt i install, npm run... (package.json). JSX/TSX, Pages/Layout (, inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
 * **[Tisdag]()** (Robert) - **Komponenter mm:** skillnaden på funktioner och komponenter, children, props/params (destructuring), externa bilder
-* **[Onsdag]** (Robert) - **Styling** + mer om css modules, google fonts - grund/översikt
-* **[Torsdag]** (Robert) - **forts**
-* **[Fredag]** (Robert) - **ev frivilligt tailwind+shadcn** 
+* **[Onsdag]()** (Robert) - **Styling:** + mer om css modules, google fonts - grund/översikt
+* **[Torsdag]()** (Robert) - **forts...**
+* **[Fredag]()** (Robert) - **ev frivilligt tailwind+shadcn** 
