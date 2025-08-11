@@ -29,8 +29,8 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 * Frivilligt - [Next.js Foundations course](https://nextjs.org/learn/dashboard-app)
 
 ## 📑 Lektionsrepon
-* **Måndag** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alternativ vid installation, App vs Pages route, npm run... (package.json). JSX/TSX, Pages/Layout (som komponent/children), inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner
-* **[Tisdag]()** (Robert) - **Mer om komponenter:** skillnaden på funktioner och komponenter, children, props (destructuring), externa bilder, (ev notFound)
-* **[Onsdag]()** (Robert) - **Styling:** mer om css modules, google fonts - grund/översikt
+* **Måndag [Repo med CSS Modules](https://github.com/Robert-Lexicon/nextjs-intro-1a) & [Repo med Tailwind](https://github.com/Robert-Lexicon/nextjs-intro-1b)** (Robert) - **Nextjs intro:** Installation och struktur på Next.js installation, olika alternativ vid installation, App vs Pages route, npm run... (package.json). JSX/TSX, Pages/Layout (som komponent/children), inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner, externa bilder
+* **[Tisdag]()** (Robert) - **Mer om komponenter:** skillnaden på funktioner och komponenter, children, props (destructuring), (ev notFound)
+* **[Onsdag]()** (Robert) - **Styling:** vi stylar vidare. ShadCn, Lucide, Google fonts - grund/översikt
 * **[Torsdag]()** (Robert) - **forts...**
-* **[Fredag]()** (Robert) - **ev frivilligt tailwind+shadcn** 
+* **[Fredag]()** (Robert) - **forts...** 
