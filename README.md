@@ -21,6 +21,7 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 
 ### Läsning
 * [Next.js Dokumentation/Getting Started](https://nextjs.org/docs/app/getting-started) Viktigt att ni läser samtliga sidor under Getting started kommande veckor (RTFM)
+* [Viktigaste koncepten i React](https://react.dev/learn) Inte så intressant med sista 3, men de andra kommer vi använda.
 * Frivilligt - [Om React](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
 
 ## 🛠️ Övningar
