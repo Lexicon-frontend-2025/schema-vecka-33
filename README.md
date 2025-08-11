@@ -33,5 +33,5 @@ Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
 * **Måndag** (Robert) **[Repo med CSS Modules](https://github.com/Robert-Lexicon/nextjs-intro-1a) & [Repo med Tailwind](https://github.com/Robert-Lexicon/nextjs-intro-1b)**  - **Nextjs intro:** Installation och struktur på Next.js installation, olika alternativ vid installation, App vs Pages route, npm run... (package.json). JSX/TSX, Pages/Layout (som komponent/children), inbyggda komponenter (Metadata, Image, Link), Basic Routing (m page + route), CSS modules, namnkonventioner, externa bilder
 * **[Tisdag]()** (Robert) - **Mer om komponenter:** skillnaden på funktioner och komponenter, children, props (destructuring), (ev interfaces, notFound)
 * **[Onsdag]()** (Robert) - **Styling:** vi stylar vidare med ShadCn, Lucide, Google fonts - grund/översikt
-* **[Torsdag]()** (Robert) - **forts...**
+* **[Torsdag]()** (Robert) - **forts...(ev dynamic routes och params)**
 * **[Fredag]()** (Robert) - **forts...** 
