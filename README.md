@@ -11,7 +11,7 @@ Efter denna vecka ska du:
 ## 📚 Material
 
 ### E‑Learning
-* [TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
+* [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
 
 ### YouTube
 Samtliga frivilliga och för er som vill ha förklarat på fler sätt/repetition
