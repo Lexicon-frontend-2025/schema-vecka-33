@@ -17,9 +17,10 @@ Efter denna vecka ska du:
 * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
 
 ### YouTube
-Se gärna dessa:
+Se gärna denna:
 * [Om suspense](https://www.youtube.com/watch?v=bKm1rNaCFOo)
-Samtliga nedanståend är frivilliga och för er som vill ha förklarat på fler sätt/repetition
+  
+Samtliga nedanståend är frivilliga och för er som vill ha förklarat på fler sätt/repetition:
 * [Next.js Tutorial 2025 - Start Your Next.js Journey Here (ByteGrad)](https://www.youtube.com/watch?v=KAQCHfu_3jw)
 * [Learn Next.js 15 In 12 Minutes (ByteGrad)](https://www.youtube.com/watch?v=p-eASfbBXEk)
 * [NextJS 15 Full Course 2025 | Become a NextJS Pro in 1.5 Hours (PedroTech)](https://www.youtube.com/watch?v=6jQdZcYY8OY)
