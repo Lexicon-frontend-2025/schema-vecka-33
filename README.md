@@ -17,8 +17,8 @@ Efter denna vecka ska du:
 * [Next.js 14: Foundations (Pluralsight)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
 
 ### YouTube
-Se gärna denna:
-* [Om suspense](https://www.youtube.com/watch?v=bKm1rNaCFOo)
+Se gärna dessa om Suspense:
+* 9:02-12:35 i denna [Common mistakes - Suspense in (Vercel)](https://youtu.be/RBM03RihZVs?t=543) och fram till 6:56 i [This Next.js Data Fetching Pattern Is CRITICAL For Every Developer (ByteGrad)](https://www.youtube.com/watch?v=bKm1rNaCFOo)
   
 Samtliga nedanståend är frivilliga och för er som vill ha förklarat på fler sätt/repetition:
 * [Next.js Tutorial 2025 - Start Your Next.js Journey Here (ByteGrad)](https://www.youtube.com/watch?v=KAQCHfu_3jw)
